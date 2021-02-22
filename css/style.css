@@ -1,5 +1,5 @@
 body {
-    color: #222222;
+    color: #5827a7;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -20,7 +20,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #e46666;
 }
 
 .masthead-heading {
@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #f06565;
 }
 
 .details {
@@ -57,12 +57,12 @@ section > h1 {
 #footer {
   padding: 20px 0;
   text-align: center;
-  background-color: #111111;
+  background-color: #ca7171;
   text-decoration: none;
 }
 
 #footer a {
-  color: #ffffff;
+  color: #ca7878;
 }
 .social > li {
   display: inline-block;
