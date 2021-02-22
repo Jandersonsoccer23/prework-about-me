@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('C:\Users\USER\prework-about-me\img\myface.jpg');
+  background-image: url('../img/myface.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
